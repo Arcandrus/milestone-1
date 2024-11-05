@@ -76,3 +76,18 @@ The site has been deployed using [GitPages](https://pages.github.com) in the fol
 + For Branch, select 'main' from the drop-down list and Save.
 + On the top of the page, the link to the complete website is provided.
 + The deployed site will update automatically upon new commits to the master branch.
+
+## Validator Testing
+**HTML** No errors when tested using [W3C Validator](./readme-assets/html-pass.png)
+
+**CSS** No errors when tested using [Jigsaw Validator](./readme-assets/css-pass.png)
+
+**Accessibility** Confirmation that my site passed accessibility when tested using [Lighthouse DevTools](./readme-assets/lighthouse-pass.png)
+
+I have also asked several users to explore the website on different devices including iPhone 14, iPad, Oppo mobile devices, Sony mobile devices and several different PC and Laptop setups to ensure consitency and usability across multiple platforms.  
+
+## Credits
+
+[MDN WebDocs](https://developer.mozilla.org/en-US/), [W3Schools](https://www.w3schools.com) and [Stack Overflow](https://stackoverflow.co/teams/) were used to help general understanding and troubleshooting specific problems as I progressed.
+
+I would also like to thank my mentor, Medale Oluwafemi, for his insights and support during this project and my friends Rew and Emma who have helped me with testing and troubleshooting.
