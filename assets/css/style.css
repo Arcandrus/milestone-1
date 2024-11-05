@@ -22,7 +22,11 @@
 
 body {
   font-family: var(--primary-font);
-  padding-top: 100px;
+  padding-top: 60px;
+}
+
+section .container {
+  padding-bottom: 60px;
 }
 
 a {
@@ -47,6 +51,10 @@ h3 {
 
 /* Hero Image */
 
+#hero {
+  padding-top: 30px;
+}
+
 #hero, img {
   border-radius: 20px;
   display: block;
@@ -64,13 +72,13 @@ h3 {
   background-color: var(--dark-color);
 }
 
-/* Home Section */
+/* Sections */
 
-#home {
+section {
   margin-top: 30px;
 }
 
-#home h2 {
+section h2 {
   margin: 15px;
 }
 
