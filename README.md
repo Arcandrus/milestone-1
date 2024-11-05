@@ -17,7 +17,6 @@
 + [Deployment](#deployment)
 + [Validator Testing](#validator-testing)
 + [Credits](#credits)
-+ [Bugs Fixes and Changes](#bug-fixes-and-changes)
 
 ## Demo
 A live demo to the website can be found [here](https://arcandrus.github.io/milestone-1/index.html)
