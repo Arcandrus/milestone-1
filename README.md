@@ -108,9 +108,9 @@ On smaller screens, the picture is moved to be displayed above its text. This wa
 ![Card Types small display](./readme-assets/card-types-small.png)
 
 ### Contact
-![Contact Form](./readme-assets/form.png)
-
 A contact page allows users to get in touch with the creator of the website to ask any questions they may have. Each field is required to submit the form and will prompt the user to add to any blank input before continuing. A success page has been used to provide feedback directly to the user after completion of the form.
+
+![Contact Form](./readme-assets/form.png)
 ![Contact Form](./readme-assets/success.png)
 
 ## Deployment
