@@ -20,7 +20,7 @@
 + [Bugs Fixes and Changes](#bug-fixes-and-changes)
 
 ## Demo
-A live demo to the website can be found [here](https://arcandrus.github.io/milestone-1/index.html) (not currently deployed)
+A live demo to the website can be found [here](https://arcandrus.github.io/milestone-1/index.html)
 
 ## UX
 This website is designed for beginners interested in learning the basics of the card game Magic: the Gathering (MTG). The user experience is geared towards explaining how to get started playing MTG and providing ansers to basic questions as well as the ability to contact the site creators for furthur information.
@@ -79,6 +79,11 @@ On smaller screens, such as tablets, the navbar and header resize to ensure read
 
 ![Navbar and Header on smaller displays](./readme-assets/header-small.png)
 
+### Footer
+![Footer](./readme-assets/footer.png)
+
+A consistant footer has been added to each page including links to five social networks.
+
 ## Page Features
 
 ### Home
@@ -101,6 +106,12 @@ Using a customized card layout, this page features a display of written explanat
 On smaller screens, the picture is moved to be displayed above its text. This was implemented to allow the page to retain readability while still allowing access to a picture example.
 
 ![Card Types small display](./readme-assets/card-types-small.png)
+
+### Contact
+![Contact Form](./readme-assets/form.png)
+
+A contact page allows users to get in touch with the creator of the website to ask any questions they may have. Each field is required to submit the form and will prompt the user to add to any blank input before continuing. A success page has been used to provide feedback directly to the user after completion of the form.
+![Contact Form](./readme-assets/success.png)
 
 ## Deployment
 The site has been deployed using [GitPages](https://pages.github.com) in the following way.
