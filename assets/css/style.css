@@ -8,7 +8,7 @@
   --secondary-font: "Josefin Sans", cursive;
   --primary-color: #005851; /* Teal */
   --secondary-color: #00a5ec; /* Light Blue */
-  --highlight-color: #149e9d; /* Soft Teal */
+  --highlight-color: #04eda1; /* Bright Teal */
   --highlight-color-light: #00b6e5; /* Sky Blue */
   --dark-color: #465761; /* Slate Grey */
 }
@@ -29,7 +29,7 @@
 }
 
 .navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
-  color: var(--highlight-color-light);
+  color: var(--highlight-color);
 }
 
 .navbar-toggler {
