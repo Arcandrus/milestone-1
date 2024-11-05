@@ -23,6 +23,7 @@
 body {
   font-family: var(--primary-font);
   padding-top: 60px;
+  overflow-x: hidden;
 }
 
 section .container {
@@ -78,8 +79,15 @@ section {
   margin-top: 30px;
 }
 
-section h2 {
-  margin: 15px;
+.sub-heading {
+  margin-top: 15px;
+}
+
+/* Video */
+
+#video-player {
+  margin: 0 auto;
+  height: 80vh;
 }
 
 /* Footer */
