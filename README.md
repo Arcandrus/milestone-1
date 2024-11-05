@@ -18,6 +18,8 @@
 + [Validator Testing](#validator-testing)
 + [Credits](#credits)
 
+![](./readme-assets/responsive.png)
+
 ## Demo
 A live demo to the website can be found [here](https://arcandrus.github.io/milestone-1/index.html)
 
