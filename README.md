@@ -20,7 +20,7 @@
 + [Bugs Fixes and Changes](#bug-fixes-and-changes)
 
 ## Demo
-A live demo to the website can be found [here](https://arcandrus.github.io/milestone-1/) (not currently deployed)
+A live demo to the website can be found [here](https://arcandrus.github.io/milestone-1/index.html) (not currently deployed)
 
 ## UX
 This website is designed for beginners interested in learning the basics of the card game Magic: the Gathering (MTG). The user experience is geared towards explaining how to get started playing MTG and providing ansers to basic questions as well as the ability to contact the site creators for furthur information.
