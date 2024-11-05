@@ -1,0 +1,96 @@
+/* GoogleFont Import */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lexend:wght@100..900&display=swap');
+
+/* CSS Variables */
+
+:root {
+  --primary-font: "Lexend", sans-serif;
+  --secondary-font: "Josefin Sans", cursive;
+  --primary-color: #005851; /* Teal */
+  --secondary-color: #00a5ec; /* Light Blue */
+  --highlight-color: #149e9d; /* Soft Teal */
+  --highlight-color-light: #00b6e5; /* Sky Blue */
+  --dark-color: #465761; /* Slate Grey */
+}
+
+/* Global Styles */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--primary-font);
+  padding-top: 100px;
+}
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+  color: var(--secondary-color);
+}
+
+a:hover {
+  color: var(--primary-color);
+  -webkit-transition: color 0.3s ease-in-out;
+  -o-transition: color 0.3s ease-in-out;
+  transition: color 0.3s ease-in-out;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--secondary-font);
+  font-weight: bold;
+}
+
+/* Hero Image */
+
+#hero, img {
+  border-radius: 20px;
+  display: block;
+  margin: 0 auto;
+  width: 80%;
+}
+
+/* Navbar */
+
+.navbar-brand img {
+  width: 30%;
+}
+
+#navbar {
+  background-color: var(--dark-color);
+}
+
+/* Home Section */
+
+#home {
+  margin-top: 30px;
+}
+
+#home h2 {
+  margin: 15px;
+}
+
+/* Footer */
+
+#footer {
+  background-color: var(--dark-color);
+  padding-bottom: 0.2rem;
+  padding-top: 0.2rem;
+}
+
+#footer .social-links a {
+  color: white;
+  font-size: 2rem;
+  margin-right: 30px;
+}
+
+#footer .social-links i:hover {
+  color: var(--highlight-color-light);
+  -webkit-transition: color 0.3s ease-in-out;
+  -o-transition: color 0.3s ease-in-out;
+  transition: color 0.3s ease-in-out;
+}
