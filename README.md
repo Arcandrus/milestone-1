@@ -67,3 +67,12 @@ I created a logo using [Looka](https://www.looka.com) and used that logo to deci
 **CSS** - To create a bold but usable front-end and to give a great user experience
 
 **Balsamiq** - To create a wireframe
+
+## Deployment
+The site has been deployed using [GitPages](https://pages.github.com) in the following way.
++ In the Github repository, the Setting tab.
++ Under General, navigate to Code and Automation and select 'Pages'.
++ In the Build and Deployment section for Source, select 'Deploy from a branch' from the drop-down list.
++ For Branch, select 'main' from the drop-down list and Save.
++ On the top of the page, the link to the complete website is provided.
++ The deployed site will update automatically upon new commits to the master branch.
