@@ -32,6 +32,10 @@
   color: var(--highlight-color-light);
 }
 
+.navbar-toggler {
+  background-color: white;
+}
+
 /* Global Styles */
 
 * {
