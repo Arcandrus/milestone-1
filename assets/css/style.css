@@ -13,6 +13,25 @@
   --dark-color: #465761; /* Slate Grey */
 }
 
+/* Navbar */
+
+.navbar-custom a {
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+}
+
+.navbar-custom a:hover {
+  color: var(--secondary-color);
+  -webkit-transition: color 0.3s ease-in-out;
+  -o-transition: color 0.3s ease-in-out;
+  transition: color 0.3s ease-in-out;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  color: var(--highlight-color-light);
+}
+
 /* Global Styles */
 
 * {
@@ -37,7 +56,7 @@ section .container {
 a {
   font-weight: bold;
   text-decoration: none;
-  color: var(--secondary-color);
+  color: white;
 }
 
 a:hover {
