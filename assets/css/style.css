@@ -124,6 +124,12 @@ section {
   margin: auto;
 }
 
+/* Contact */
+
+#contact-form {
+  margin-bottom: 30px;
+}
+
 /* Video */
 
 #video-player {
