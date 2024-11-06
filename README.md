@@ -109,7 +109,7 @@ On smaller screens, the picture is moved to be displayed above its text. This wa
 ![Card Types small display](./readme-assets/card-types-small.png)
 
 ### Contact
-A contact page allows users to get in touch with the creator of the website to ask any questions they may have. Each field is required to submit the form and will prompt the user to add to any blank input before continuing. A success page has been used to provide feedback directly to the user after completion of the form.
+A contact page allows users to get in touch with the creator of the website to ask any questions they may have. Each field is required to submit the form and will prompt the user to add to any blank input before continuing. A success page has been used to provide feedback directly to the user after completion of the form. I have implemented a simple Javascript countdown and auto redirect as well as including a button backup to return the user to the homepage after the form has been submitted.
 
 ![Contact Form](./readme-assets/form.png)
 ![Contact Form](./readme-assets/success.png)
